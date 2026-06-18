@@ -1,0 +1,8 @@
+bin/
+lib/
+lib64/
+include/
+share/
+pevenv.cfg
+__pycache__/
+*.db
