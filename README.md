@@ -22,7 +22,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone [https://github.com/ВАШ_ЛОГИН/smart-quotes-aggregator.git](https://github.com/ВАШ_ЛОГИН/smart-quotes-aggregator.git)
+   git clone [https://github.com/ВАШ_ЛОГИН/smart-quotes-aggregator.git](https://github.com/GodBalls/smart-quotes-aggregator.git)
 
 
 
